@@ -1,4 +1,4 @@
-### 👋 introduction
+### 👋 ntroduction
 안녕하세요. 개발자 꿈나무 김윤희입니다.
 <!--
 **qscwdve/qscwdve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
