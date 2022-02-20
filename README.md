@@ -15,8 +15,14 @@ Here are some ideas to get you started:
  😄Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Project
+- 쿠팡이츠
+- 메이크업의 HELL에서 너를 구원할게, 헬미
+- 데이터베이스 보안 프로젝트
+- 쥬디의 찜질방 게임
+- Bubble Shooter 게임
 
-- 😄 Skill
+#### 😄 Skill
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
