@@ -1,5 +1,5 @@
 ### 👋 Introduction
-안녕하세요. 도전하는 개발자 김윤희입니다.
+안녕하세요. 실행하고 도전하는 개발자 김윤희입니다.
 <!--
 **qscwdve/qscwdve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
